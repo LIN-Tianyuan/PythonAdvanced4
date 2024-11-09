@@ -23,5 +23,6 @@ new_list3 = my_list3[3:1:-1]
 print(new_list3)
 
 my_tuple2 = (1, 2, 3, 4, 5)
-new_tuple2 = my_tuple2[4:1:-2]
+new_tuple2 = my_tuple2[4::-1]
 print(new_tuple2)
+
