@@ -1,0 +1,12 @@
+name,date,money,type,remarks
+Alex,2022-01-01,100000,expense,official
+Alex,2022-01-02,300000,income,official
+Luna,2022-01-01,300000,income,official
+Luna,2022-01-03,100000,expense,official
+Luna,2022-01-05,500000,income,official
+Leo,2022-01-01,100000,expense,official
+Leo,2022-01-02,500000,income,official
+Lucas,2022-01-01,500000,expense,official
+Lucas,2022-01-03,950000,income,official
+Kevin,2022-01-02,100000,expense,official
+Kevin,2022-01-03,300000,expense,official

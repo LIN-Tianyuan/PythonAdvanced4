@@ -1,0 +1,5 @@
+f = open('word.txt')
+content = f.read()
+total = content.count('alex')
+print(f"alex apparaît {total} fois dans le fichier word.txt.")
+f.close()
